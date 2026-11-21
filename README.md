@@ -27,9 +27,9 @@ Computer Science Engineering student at Sri Manakula Vinayagar Engineering Colle
 </picture>
 
 <p>
-<a href="https://www.teambullfuelhouse.com"><img src="assets/motion/teambull.webp" alt="Scrolling through the live Teambull Fuel House shop" width="32%"></a>
-<a href="https://jeankevin.vercel.app"><img src="assets/motion/portfolio.webp" alt="My portfolio's 3D Block City building itself" width="32%"></a>
-<a href="https://github.com/Jeankevin14/cts-practice-frontend"><img src="assets/motion/proauth.webp" alt="The ProAuth IQ landing page" width="32%"></a>
+<a href="https://www.teambullfuelhouse.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/motion/motion-teambull-dark.svg"><img src="assets/motion/motion-teambull-light.svg" alt="Scrolling through the live Teambull Fuel House shop" width="32%"></picture></a>
+<a href="https://jeankevin.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/motion/motion-portfolio-dark.svg"><img src="assets/motion/motion-portfolio-light.svg" alt="My portfolio's 3D Block City building the JK monogram" width="32%"></picture></a>
+<a href="https://github.com/Jeankevin14/cts-practice-frontend"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/motion/motion-proauth-dark.svg"><img src="assets/motion/motion-proauth-light.svg" alt="The ProAuth IQ landing page" width="32%"></picture></a>
 </p>
 
 <sub>Teambull Fuel House (live) · Portfolio (3D Block City) · ProAuth IQ</sub>
@@ -59,9 +59,6 @@ Computer Science Engineering student at Sri Manakula Vinayagar Engineering Colle
   <img src="assets/h-certifications-light.svg" alt="Certifications" width="100%">
 </picture>
 
-<a href="https://jeankevin.vercel.app/#certifications"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg">
-  <img src="assets/certs-light.svg" alt="Certifications: NPTEL The Joy of Computing using Python; Cisco CCNA Switching, Routing and Wireless Essentials; Cisco C++ Essentials 2; AWS Academy Graduate Data Engineering; AWS Academy Graduate Cloud Security Foundations; CodeChef Practice Python; CodeChef Problem Solving in Python; HackerRank Python (Basic); HackerRank SQL (Basic); Anthropic Claude 101." width="100%">
-</picture></a>
+<a href="https://jeankevin.vercel.app/#certifications"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg"><img src="assets/certs-light.svg" alt="Certifications: NPTEL The Joy of Computing using Python; Cisco CCNA Switching, Routing and Wireless Essentials; Cisco C++ Essentials 2; AWS Academy Graduate Data Engineering; AWS Academy Graduate Cloud Security Foundations; CodeChef Practice Python; CodeChef Problem Solving in Python; HackerRank Python (Basic); HackerRank SQL (Basic); Anthropic Claude 101." width="100%"></picture></a>
 
 <sub>Verify on Credly: [AWS Data Engineering](https://www.credly.com/go/tjGuJRVF) · [AWS Cloud Security Foundations](https://www.credly.com/go/IAEIfFO6) · Full list on my [portfolio](https://jeankevin.vercel.app/#certifications)</sub>
