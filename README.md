@@ -27,9 +27,9 @@ Computer Science Engineering student at Sri Manakula Vinayagar Engineering Colle
 </picture>
 
 <p>
-<a href="https://www.teambullfuelhouse.com"><img src="assets/motion/teambull.gif" alt="Scrolling through the live Teambull Fuel House shop" width="32%"></a>
-<a href="https://jeankevin.vercel.app"><img src="assets/motion/portfolio.gif" alt="My portfolio's 3D Block City building itself" width="32%"></a>
-<a href="https://github.com/Jeankevin14/cts-practice-frontend"><img src="assets/motion/proauth.gif" alt="The ProAuth IQ landing page" width="32%"></a>
+<a href="https://www.teambullfuelhouse.com"><img src="assets/motion/teambull.webp" alt="Scrolling through the live Teambull Fuel House shop" width="32%"></a>
+<a href="https://jeankevin.vercel.app"><img src="assets/motion/portfolio.webp" alt="My portfolio's 3D Block City building itself" width="32%"></a>
+<a href="https://github.com/Jeankevin14/cts-practice-frontend"><img src="assets/motion/proauth.webp" alt="The ProAuth IQ landing page" width="32%"></a>
 </p>
 
 <sub>Teambull Fuel House (live) · Portfolio (3D Block City) · ProAuth IQ</sub>
