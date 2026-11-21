@@ -59,9 +59,6 @@ Computer Science Engineering student at Sri Manakula Vinayagar Engineering Colle
   <img src="assets/h-certifications-light.svg" alt="Certifications" width="100%">
 </picture>
 
-<a href="https://jeankevin.vercel.app/#certifications"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg">
-  <img src="assets/certs-light.svg" alt="Certifications: NPTEL The Joy of Computing using Python; Cisco CCNA Switching, Routing and Wireless Essentials; Cisco C++ Essentials 2; AWS Academy Graduate Data Engineering; AWS Academy Graduate Cloud Security Foundations; CodeChef Practice Python; CodeChef Problem Solving in Python; HackerRank Python (Basic); HackerRank SQL (Basic); Anthropic Claude 101." width="100%">
-</picture></a>
+<a href="https://jeankevin.vercel.app/#certifications"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg"><img src="assets/certs-light.svg" alt="Certifications: NPTEL The Joy of Computing using Python; Cisco CCNA Switching, Routing and Wireless Essentials; Cisco C++ Essentials 2; AWS Academy Graduate Data Engineering; AWS Academy Graduate Cloud Security Foundations; CodeChef Practice Python; CodeChef Problem Solving in Python; HackerRank Python (Basic); HackerRank SQL (Basic); Anthropic Claude 101." width="100%"></picture></a>
 
 <sub>Verify on Credly: [AWS Data Engineering](https://www.credly.com/go/tjGuJRVF) · [AWS Cloud Security Foundations](https://www.credly.com/go/IAEIfFO6) · Full list on my [portfolio](https://jeankevin.vercel.app/#certifications)</sub>
