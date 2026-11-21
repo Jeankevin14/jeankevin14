@@ -1,4 +1,7 @@
-# Hi, I'm Jean Kevin D
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Jean Kevin D: Computer Science Engineering student. An animated isometric city with Teambull Fuel House, ProAuth IQ and Brainy Blooms labelled." width="100%">
+</picture>
 
 Computer Science Engineering student at Sri Manakula Vinayagar Engineering College, Puducherry (B.Tech, 2023–2027). I build web applications for real users, and I'm interested in frontend development, Python, and AI/ML.
 
